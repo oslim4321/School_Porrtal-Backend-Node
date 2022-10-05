@@ -1,0 +1,220 @@
+        [
+        {
+            "question": "What is the capital city of Switzerland?",
+            "answers": [
+                {"answer":"Geneva", "correct": false},
+                {"answer":"Zurich", "correct": false},
+                {"answer":"Bern", "correct": true},
+                {"answer":"Lausanne", "correct": false}
+              ],
+            "category": "geography"
+        },
+
+        {
+            "question": "What is the world's largest river by volume?",
+            "answers": [
+                {"answer":"The Nile", "correct": false},
+                {"answer":"The Amazon", "correct": true},
+                {"answer":"The Congo", "correct": false},
+                {"answer":"The Yangtze", "correct": false}
+            ],
+            "category": "geography"
+        },
+        
+        {
+            "question": "What is the most populous city in the world?",
+            "answers": [
+                {"answer":"Tokyo", "correct": true},
+                {"answer":"Beijing", "correct": false},
+                {"answer":"Mumbai", "correct": false},
+                {"answer":"New York", "correct": false}
+            ],
+            "category": "geography"
+        },
+
+        {
+            "question": "How large an area does Asia cover in km³?",
+            "answers": [
+                {"answer":  "44.58 million", "correct": true},
+                {"answer":  "52.64 million", "correct": false},
+                {"answer":   "41.59 million", "correct": false},
+                {"answer":   "48.41 million", "correct": false}
+            ],
+            "correctAnswer": "44.58 million",
+            "category": "geography"
+        },
+
+        {
+            "question": "Which of these is not one of the 7 wonders of the ancient world?",
+            "answers": [
+                {"answer":  "The Great Pyramid of Giza", "correct": false},
+                {"answer":  "The Statue of Zeus at Olympia", "correct": false},
+                {"answer":   "The Parthenon", "correct": true},
+                {"answer":  "The Colossus of Rhodes", "correct": false}
+            ],
+            "category": "geography"
+        },
+
+        {
+            "question": "When were the first Olympic games held?",
+            "answers": [
+                {"answer":"772 BC", "correct": false},
+                {"answer": "1896 AD", "correct": false},
+                {"answer": "776 BC", "correct": true},
+                {"answer": "692 BC", "correct": false}
+                ],
+            "category": "history"
+        },
+        {
+            "question": "What was the capital city of the Byzantine Empire?",
+            "answers": [
+                {"answer": "Rome", "correct": false},
+                {"answer": "Constantinople", "correct": true},
+                {"answer": "Pompeii", "correct": false},
+                {"answer": "Antioch", "correct": false}
+            ],
+             "category": "history"
+        },
+
+        {
+            "question": "In Greek mythology, where did the gods live?",
+            "answers": [
+                {"answer": "Mount Olympus", "correct": false},
+                {"answer": "The Elysian Fields", "correct": false},
+                {"answer":"Mount Othrys", "correct": true},
+                {"answer": "Mount Ida", "correct": false}
+            ],
+             "category": "history"
+        },
+
+        {
+            "question": "Who was Otto von Bismarck?",
+            "answers": [
+                {"answer": "A German general during World War 1", "correct": false},
+                {"answer": "An Austrian prince", "correct": false},
+                {"answer":  "The first German chancellor", "correct": true},
+                {"answer": "A Swiss scientist", "correct": false}
+            ],
+             "category": "history"
+        },
+
+        {
+            "question": "What was the largest empire in history?",
+            "answers": [
+                {"answer":  "The Mongol Empire", "correct": false},
+                {"answer":  "The Roman Empire", "correct": false},
+                {"answer": "The Russian Empire", "correct": false},
+                {"answer": "The British Empire", "correct": true}
+            ],
+            "correctAnswer": "The British Empire",
+             "category": "history"
+        },
+
+        {
+            "question": "What does the mass number of an atom indicate?",
+            "answers": [
+                  {"answer":  "The number of protons", "correct": false},
+                  {"answer":  "The number of neutrons", "correct": false},
+                  {"answer":   "The number of protons and neutrons", "correct": true},
+                  {"answer":  "The number of electrons", "correct": false}
+            ],
+            "category": "science"
+        },
+
+        {
+            "question": "How many bones are there in the human body?",
+            "answers": [
+                {"answer":"216", "correct": false},
+                {"answer": "206","correct": true},
+                {"answer":"208", "correct": false},
+                {"answer":"214", "correct": false}
+            ],               
+            "category": "science"
+        },
+
+        {
+            "question": "The force acting on an object due to gravity is:",
+            "answers": [
+                {"answer":  "Weight", "correct": true},
+                {"answer":  "Mass", "correct": false},
+                {"answer":  "Gravitational acceleration","correct": false},
+                {"answer":  "Moment", "correct": false}  
+            ],
+            "category": "science"
+        },
+
+        {
+            "question": "What is the chemical symbol of iron?",
+            "answers": [
+                {"answer":  "Io", "correct": false},
+                {"answer":  "Fe", "correct": true},
+                {"answer":  "Sn", "correct": false},
+                {"answer":  "Ir", "correct": false}
+            ],
+                "category": "science"
+        },
+        {
+            "question": "What is the largest bone in the human body?",
+            "answers": [
+                {"answer":  "Tibia", "correct": false},
+                {"answer":  "Fibula", "correct": false},
+                {"answer":  "Humerus", "correct": false},
+                {"answer":  "Femur", "correct": true}
+            ],
+            "category": "science"
+        },
+    
+        {
+            "question": "Which planet does the moon Europa orbit?",
+            "answers": [
+                {"answer":  "Saturn", "correct": false},
+                {"answer":  "Jupiter", "correct": true},
+                {"answer":  "Uranus", "correct": false},
+                {"answer":  "Mars", "correct": false}
+              ],
+
+            "category": "space"
+            
+        },
+
+        {
+            "question": "How old is the universe?",
+            "answers": [
+                {"answer":   "13.77 billion years", "correct": true},
+                {"answer":   "4.55 billion years", "correct": false},
+                {"answer":   "12.65 billion years", "correct": false},
+                {"answer":  "6.78 billion years", "correct": false}
+            ],
+            "category": "space"
+        },
+        {
+            "question": "Who was the first person in space?",
+            "answers": [
+                {"answer":  "Neil Armstrong", "correct": false},
+                {"answer":  "Alan Shepard", "correct": false},
+                {"answer": "Buzz Aldrin", "correct": false},
+                {"answer":   "Yuri Gagarin", "correct": true}
+            ],
+            "category": "space"
+        },
+        {
+            "question": "What is the tallest mountain in the solar system?",
+            "answers": [
+                {"answer":   "Mount Everest", "correct": false},
+                {"answer":  "Mauna Kea", "correct": false},
+                {"answer":   "Olympus Mons", "correct": true},
+                {"answer":   "Haleakala", "correct": false}
+            ],
+            "category": "space"
+        },
+        {
+            "question": "What planet in the solar system has no moons?",
+            "answers": [
+                {"answer":   "Mars", "correct": false},
+                {"answer":   "Mercury", "correct": true},
+                {"answer":   "Venus", "correct": false},
+                {"answer":   "Neptune", "correct": false}
+                ],
+            "category": "space"
+        }
+    ]

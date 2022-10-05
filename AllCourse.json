@@ -1,0 +1,64 @@
+[
+    {
+      "course": "Agricultural/Bioresources Engineering",
+      "cutOffMark": 190,
+      "type": "ND"
+    },
+    {
+      "course": "Civil Engineering",
+      "cutOffMark": 200,
+      "type": "HND"
+    },
+    {
+      "course": "Chemical Engineering",
+      "cutOffMark": 190,
+      "type": "HND"
+    },
+    {
+      "course": "Computer Engineering ",
+      "cutOffMark": 190,
+      "type": "ND"
+    },
+    {
+      "course": "Electrical Engineering",
+      "cutOffMark": 200,
+      "type": "ND"
+    },
+    {
+      "course": "Marine Engineering",
+      "cutOffMark": 190,
+      "type": "HND"
+    },
+    {
+      "course": "Mechanical Engineering",
+      "cutOffMark": 200,
+      "type": "ND"
+    },
+    {
+      "course": "Metallurgical and Materials Engineering ",
+      "cutOffMark": 190,
+      "type": "HND"
+    },
+    {
+      "course": "Petroleum and Gas Engineering",
+      "cutOffMark": 190,
+      "type": "HND"
+    },
+    {
+      "course": "Petroleum and Gas Engineering",
+      "cutOffMark": 190,
+      "type": "ND"
+    },
+    {
+      "course": "Structural Engineering ",
+      "cutOffMark": 180,
+      "type": "ND"
+    },
+    {
+      "course": "Systems Engineering",
+      "cutOffMark": 180,
+      "type": "HND"
+    }
+
+  ]
+  
